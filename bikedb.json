@@ -1,0 +1,59 @@
+{
+  "bikedb": {
+    "bike": [
+      {
+        "_id": "665f1a2b3c4d5e6f7a8b9c01",
+        "brand": "Yamaha",
+        "model": "MT-07",
+        "year": 2023,
+        "engineCc": 689,
+        "riders": [
+          { "name": "Carlos Pérez", "team": "Yamaha Racing" },
+          { "name": "Lucía Gómez", "team": "Yamaha Racing" }
+        ]
+      },
+      {
+        "_id": "665f1a2b3c4d5e6f7a8b9c02",
+        "brand": "Honda",
+        "model": "CBR600RR",
+        "year": 2022,
+        "engineCc": 599,
+        "riders": [
+          { "name": "Andrés Ruiz", "team": "Honda Team" }
+        ]
+      },
+      {
+        "_id": "665f1a2b3c4d5e6f7a8b9c03",
+        "brand": "Kawasaki",
+        "model": "Ninja ZX-10R",
+        "year": 2024,
+        "engineCc": 998,
+        "riders": [
+          { "name": "Sofía Martín", "team": "Kawasaki Pro" },
+          { "name": "Diego López", "team": "Kawasaki Pro" }
+        ]
+      },
+      {
+        "_id": "665f1a2b3c4d5e6f7a8b9c04",
+        "brand": "Ducati",
+        "model": "Panigale V4",
+        "year": 2023,
+        "engineCc": 1103,
+        "riders": [
+          { "name": "María Fernández", "team": "Ducati Corse" }
+        ]
+      },
+      {
+        "_id": "665f1a2b3c4d5e6f7a8b9c05",
+        "brand": "BMW",
+        "model": "S1000RR",
+        "year": 2024,
+        "engineCc": 999,
+        "riders": [
+          { "name": "Javier Torres", "team": "BMW Motorrad" },
+          { "name": "Elena Sánchez", "team": "BMW Motorrad" }
+        ]
+      }
+    ]
+  }
+}
